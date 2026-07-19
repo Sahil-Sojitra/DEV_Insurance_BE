@@ -157,3 +157,4 @@ const parseDefaultPolicy = (documentText) => ({
     agentContact: (0, baseParser_1.cleanFieldValue)(extractAgentContact(documentText)),
 });
 exports.parseDefaultPolicy = parseDefaultPolicy;
+//# sourceMappingURL=defaultParser.js.map

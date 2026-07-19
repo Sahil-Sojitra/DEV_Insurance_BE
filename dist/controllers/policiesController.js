@@ -257,3 +257,4 @@ const updatePolicy = async (req, res, next) => {
     }
 };
 exports.updatePolicy = updatePolicy;
+//# sourceMappingURL=policiesController.js.map

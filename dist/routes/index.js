@@ -10,3 +10,4 @@ const router = express_1.default.Router();
 router.get('/health', healthController_1.getHealth);
 router.use('/policies', policiesRoutes_1.default);
 exports.default = router;
+//# sourceMappingURL=index.js.map

@@ -58,3 +58,4 @@ const policySchema = new mongoose_1.Schema({
     versionKey: false,
 });
 exports.default = mongoose_1.default.model('Policy', policySchema);
+//# sourceMappingURL=Policy.js.map

@@ -8,3 +8,4 @@ const getHealth = (req, res) => {
     });
 };
 exports.getHealth = getHealth;
+//# sourceMappingURL=healthController.js.map

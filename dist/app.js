@@ -22,3 +22,4 @@ app.use('/api', routes_1.default);
 app.use(notFound_1.notFound);
 app.use(errorHandler_1.errorHandler);
 exports.default = app;
+//# sourceMappingURL=app.js.map

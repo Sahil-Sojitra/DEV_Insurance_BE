@@ -26,3 +26,4 @@ router.get('/export/csv', policiesController_1.exportPoliciesCsv);
 router.put('/:id', policiesController_1.updatePolicy);
 router.delete('/:id', policiesController_1.deletePolicy);
 exports.default = router;
+//# sourceMappingURL=policiesRoutes.js.map

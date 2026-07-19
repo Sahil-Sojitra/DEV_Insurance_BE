@@ -104,3 +104,4 @@ const toIsoDate = (value) => {
     return date.toISOString().slice(0, 10);
 };
 exports.toIsoDate = toIsoDate;
+//# sourceMappingURL=dates.js.map

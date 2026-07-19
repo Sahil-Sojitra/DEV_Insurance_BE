@@ -106,3 +106,4 @@ const parseDigitMotorPolicy = (documentText) => {
     };
 };
 exports.parseDigitMotorPolicy = parseDigitMotorPolicy;
+//# sourceMappingURL=digitMotorParser.js.map
